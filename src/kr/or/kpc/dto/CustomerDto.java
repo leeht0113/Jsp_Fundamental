@@ -1,4 +1,4 @@
-  package kr.or.kpc.dto;
+package kr.or.kpc.dto;
 
 public class CustomerDto {
 	private String email;
